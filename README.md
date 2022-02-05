@@ -2,7 +2,6 @@
 - 👀 I’m interested in software engineering, database programming, web technologies, microbiology, agriculture, horticulture, and cannabis cultivation.
 - 🌱 I’m currently learning to grow high-quality cannabis
 - 💞️ I’m looking to collaborate on light-weight cannabis and horticulture grow tracking application
-- 📫 How to reach me mitchell.heintz@gmail.com
 
 <!---
 ThunderousWizard420/ThunderousWizard420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
